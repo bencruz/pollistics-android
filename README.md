@@ -1,4 +1,4 @@
 pollistics
 ==========
 
-Pollistics for Java project
+Pollistics for Java Android project
